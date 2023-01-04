@@ -4,7 +4,7 @@
     <test verbose="2" preserve-order="true"
           name="BeforeAfterAnnotation">
         <classes>
-            <class name="Lessons.ThirdLesson.Section16.Annotation01.BeforeAfterSuitAnnotation">
+            <class name="Lessons.Week03.Section16.Annotation01.BeforeAfterSuitAnnotation">
                 <methods>
                     <include name="MobileApp"/>
                     <include name="MobilePhone"/>

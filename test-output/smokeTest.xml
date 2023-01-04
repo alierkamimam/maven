@@ -9,8 +9,8 @@
             </run>
         </groups>
         <classes>
-            <class name="Lessons.ThirdLesson.Section16.Annotation01.BeforeAfterSuitAnnotation"/>
-            <class name="Lessons.ThirdLesson.Section16.Annotation01.BeforeAfterAnnotation"/>
+            <class name="Lessons.Week03.Section16.Annotation01.BeforeAfterSuitAnnotation"/>
+            <class name="Lessons.Week03.Section16.Annotation01.BeforeAfterAnnotation"/>
         </classes>
     </test>
 </suite>

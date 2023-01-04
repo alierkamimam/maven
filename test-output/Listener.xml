@@ -2,12 +2,12 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="ListenerExample">
     <listeners>
-        <listener class-name="Lessons.ThirdLesson.Section16.Listeners"></listener>
+        <listener class-name="Lessons.Week03.Section16.Listeners"></listener>
     </listeners>
     <test verbose="2" preserve-order="true"
           name="Example01">
         <classes>
-            <class name="Lessons.ThirdLesson.Section16.Annotation01.BeforeAfterAnnotation">
+            <class name="Lessons.Week03.Section16.Annotation01.BeforeAfterAnnotation">
                 <methods>
                     <include name="MobileApp"/>
                     <include name="MobilePhone"/>
