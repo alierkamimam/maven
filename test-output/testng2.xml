@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="section16">
+        <classes>
+            <class name="Lessons.ThirdLesson.Section16.FrameWorkPart1.Day1">
+                <methods>
+                    <include name="WebLoginCarLoan"/>
+                    <include name="MobileLoginCarLoan"/>
+                    <include name="LoginAPICarLoan"/>
+                </methods>
+            </class>
+            <class name="Lessons.ThirdLesson.Section16.FrameWorkPart1.Day2">
+                <methods>
+                    <include name="Demo2"/>
+                    <include name="Demo3"/>
+                    <include name="Demo4"/>
+                    <include name="Demo5"/>
+                </methods>
+            </class>
+            <class name="Lessons.ThirdLesson.Section16.FrameWorkPart1.Day3">
+                <methods>
+                    <include name="MobileApp"/>
+                    <include name="MobilePhone"/>
+                    <include name="WebApp"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
