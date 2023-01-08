@@ -5,63 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79fcaf2d-37d0-49e2-a475-8a02a17bf65e" name="Changes" comment="added">
+      <change afterPath="$PROJECT_DIR$/reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week03/Section18/PageObjects/OrderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week03/Section19/Test/ErrorValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week03/Section19/Test/FrameWorkExercises_rahulshettycom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week03/Section20/SubmitOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week03/Section20/rahulshetty/data/DataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week03/Section20/rahulshetty/data/PurchaseOrder.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week03/Section21/ExtentReport/ExtentReportDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/TestSuit/ErrorHandling.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/TestSuit/Purchase.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/TestSuit/PurchaseHashMap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/TestSuit/SubmitErrroTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/FirstLesson/ChromeExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week01/ChromeExercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/FirstLesson/EdgeBrowserExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week01/EdgeBrowserExercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/FirstLesson/FireFoxExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week01/FireFoxExercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/FirstLesson/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week01/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/FirstLesson/enterWikipedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week01/enterWikipedia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section07/AutoSuggestiveDropDownPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section07/AutoSuggestiveDropDownPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section07/CalendarDropDownPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section07/CalendarDropDownPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section07/CheckBoxPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section07/CheckBoxPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section07/CurrencyDropDownPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section07/CurrencyDropDownPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section07/DepartureArrivalDropDownPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section07/DepartureArrivalDropDownPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section07/EndToEndPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section07/EndToEndPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section07/HomeWorkUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section07/HomeWorkUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section07/JvaAlertsPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section07/JvaAlertsPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section07/PassengerDropDownPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section07/PassengerDropDownPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section08/FluentWaitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section08/FluentWaitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section08/GreenCardWebsitePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section08/GreenCardWebsitePractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section08/hack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section08/hack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section09/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section09/Homework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section10/ActionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section10/ActionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section10/FrameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section10/FrameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section10/Homework01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section10/Homework01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section10/Homework02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section10/Homework02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section10/WindowHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section10/WindowHandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section11/HandlingCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section11/HandlingCalendar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section11/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section11/Scope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section12/JavaScriptExecutorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section12/JavaScriptExecutorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section12/JavaScriptExecutorDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section12/JavaScriptExecutorDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section13/BrokenLinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section13/BrokenLinks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section13/Miscellaneous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section13/Miscellaneous.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/SecondLesson/section13/SSLCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week02/section13/SSLCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section14/FilterWebTable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section14/JavaStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section14/TableSortingGreenCardWebSite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section15/NewWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section15/RelativeLoc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section16/Annotation01/BeforeAfterAnnotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section16/Annotation01/BeforeAfterSuitAnnotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section16/FrameWorkPart1/Day1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section16/FrameWorkPart1/Day2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section16/FrameWorkPart1/Day3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section16/FrameWorkPart1/Day4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section16/Listeners.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section17/Projects01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section18/AbstractComponents/AbstractComponents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section18/FrameWorkExercises_rahulshettycom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section18/PageObjects/CartPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section18/PageObjects/CheckOutPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section18/PageObjects/ConfirmationPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section18/PageObjects/LandingPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/ThirdLesson/Section18/PageObjects/ProductCatalogue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Listener.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Listener.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/smokeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/smokeTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/Week03/Section18/AbstractComponents/AbstractComponents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week03/Section18/AbstractComponents/AbstractComponents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/Week03/Section18/PageObjects/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week03/Section18/PageObjects/LandingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/Week03/Section19/TestComponents/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lessons/Week03/Section19/TestComponents/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lessons/Week03/Section19/projects.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,12 +54,14 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_directory_selection&quot;: &quot;C:/Users/Ali Erkam İMAM/Desktop/maven/src/test/java/Homework/Lesson01_homework&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ali Erkam İMAM/Desktop/maven/test-output&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ali Erkam İMAM/Desktop/maven/test-output/TestSuit&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -105,26 +70,37 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="MyFrameWorkProjects" />
       <recent name="Lessons.ThirdLesson.Section18.PageObjects" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ali Erkam İMAM\Desktop\maven\test-output\TestSuit" />
       <recent name="C:\Users\Ali Erkam İMAM\Desktop\maven\test-output" />
+      <recent name="C:\Users\Ali Erkam İMAM\Desktop\maven\test-output\Default Suite" />
+      <recent name="C:\Users\Ali Erkam İMAM\Desktop\maven\src\test\java\Lessons\Week03\Section19\Test" />
       <recent name="C:\Users\Ali Erkam İMAM\Desktop\maven\src\test\java" />
-      <recent name="C:\Users\Ali Erkam İMAM\Desktop\maven\src\test\java\Homework\Lesson02_homework" />
-      <recent name="C:\Users\Ali Erkam İMAM\Desktop\maven\src\test\java\Homework\Lesson01_homework" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ali Erkam İMAM\Desktop\maven\src\test\java" />
+      <recent name="C:\Users\Ali Erkam İMAM\Desktop\maven\src\test" />
+      <recent name="C:\Users\Ali Erkam İMAM\Desktop\maven\test-output\TestSuit" />
+      <recent name="C:\Users\Ali Erkam İMAM\Desktop\maven\test-output" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lessons.Week03.Section20" />
+      <recent name="Lessons.Week03.Section18.PageObjects" />
+      <recent name="Lessons.Week03.Section19" />
       <recent name="Lessons.ThirdLesson.Section18" />
       <recent name="Homework.Lesson01_homework" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.BeforeAfterAnnotation.MobileApp">
-    <configuration name="FrameWorkExercises_rahulshettycom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.ThirdLesson.Section18.FrameWorkExercises_rahulshettycom" />
+  <component name="RunManager" selected="Application.Exercises16">
+    <configuration name="Exercises16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyFrameWorkProjects.Exercises16" />
       <module name="maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.ThirdLesson.Section18.PageObjects.*" />
+          <option name="PATTERN" value="MyFrameWorkProjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,30 +108,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Projects01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.ThirdLesson.Section17.Projects01" />
-      <module name="maven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lessons.ThirdLesson.Section17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/maven/reports/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
     </configuration>
-    <configuration name="BeforeAfterAnnotation.MobileApp" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AbstractComponent.loginApplication" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.Week03.Section16.Annotation01.*" />
+          <option name="PATTERN" value="MyFrameWorkProjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Lessons.Week03.Section16.Annotation01" />
-      <option name="MAIN_CLASS_NAME" value="Lessons.Week03.Section16.Annotation01.BeforeAfterAnnotation" />
-      <option name="METHOD_NAME" value="MobileApp" />
+      <option name="PACKAGE_NAME" value="MyFrameWorkProjects" />
+      <option name="MAIN_CLASS_NAME" value="MyFrameWorkProjects.AbstractComponent" />
+      <option name="METHOD_NAME" value="loginApplication" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -163,34 +129,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FrameWorkExercises_rahulshettycom" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExtentReportDemo.initialDemo (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.ThirdLesson.Section18.*" />
+          <option name="PATTERN" value="Lessons.Week03.Section21.ExtentReport.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Lessons.ThirdLesson.Section18" />
-      <option name="MAIN_CLASS_NAME" value="Lessons.ThirdLesson.Section18.FrameWorkExercises_rahulshettycom" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="Lessons.Week03.Section21.ExtentReport" />
+      <option name="MAIN_CLASS_NAME" value="Lessons.Week03.Section21.ExtentReport.ExtentReportDemo" />
+      <option name="METHOD_NAME" value="initialDemo" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FrameWorkExercises_rahulshettycom.SubmitOrder" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExtentReportDemo.initialDemo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="maven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.ThirdLesson.Section18.*" />
+          <option name="PATTERN" value="ExtentReport.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Lessons.ThirdLesson.Section18" />
-      <option name="MAIN_CLASS_NAME" value="Lessons.ThirdLesson.Section18.FrameWorkExercises_rahulshettycom" />
-      <option name="METHOD_NAME" value="SubmitOrder" />
+      <option name="PACKAGE_NAME" value="ExtentReport" />
+      <option name="MAIN_CLASS_NAME" value="ExtentReport.ExtentReportDemo" />
+      <option name="METHOD_NAME" value="initialDemo" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -199,19 +166,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FrameWorkExercises_rahulshettycom" />
-      <item itemvalue="Application.Projects01" />
-      <item itemvalue="TestNG.BeforeAfterAnnotation.MobileApp" />
-      <item itemvalue="TestNG.FrameWorkExercises_rahulshettycom" />
-      <item itemvalue="TestNG.FrameWorkExercises_rahulshettycom.SubmitOrder" />
+      <item itemvalue="Application.Exercises16" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="TestNG.AbstractComponent.loginApplication" />
+      <item itemvalue="TestNG.ExtentReportDemo.initialDemo" />
+      <item itemvalue="TestNG.ExtentReportDemo.initialDemo (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.BeforeAfterAnnotation.MobileApp" />
-        <item itemvalue="TestNG.FrameWorkExercises_rahulshettycom.SubmitOrder" />
-        <item itemvalue="TestNG.FrameWorkExercises_rahulshettycom" />
-        <item itemvalue="Application.FrameWorkExercises_rahulshettycom" />
-        <item itemvalue="Application.Projects01" />
+        <item itemvalue="Application.Exercises16" />
+        <item itemvalue="TestNG.AbstractComponent.loginApplication" />
+        <item itemvalue="TestNG.ExtentReportDemo.initialDemo (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="TestNG.ExtentReportDemo.initialDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +200,14 @@
       <workItem from="1672723180564" duration="22948000" />
       <workItem from="1672767808071" duration="7101000" />
       <workItem from="1672807842350" duration="3974000" />
-      <workItem from="1672811899622" duration="23236000" />
+      <workItem from="1672811899622" duration="26764000" />
+      <workItem from="1672853631512" duration="7531000" />
+      <workItem from="1672904294952" duration="24182000" />
+      <workItem from="1672992042432" duration="6158000" />
+      <workItem from="1673025614333" duration="2693000" />
+      <workItem from="1673078817718" duration="11003000" />
+      <workItem from="1673115687924" duration="817000" />
+      <workItem from="1673199198992" duration="940000" />
     </task>
     <task id="LOCAL-00001" summary="added">
       <created>1672651569613</created>
@@ -403,7 +377,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672838972507</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="added">
+      <created>1672850036260</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1672850036260</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added">
+      <created>1672850144888</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1672850144888</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,6 +409,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added" />
     <option name="LAST_COMMIT_MESSAGE" value="added" />
   </component>
