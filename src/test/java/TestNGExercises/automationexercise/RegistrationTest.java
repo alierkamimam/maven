@@ -49,6 +49,7 @@ public class RegistrationTest extends BaseTest {
         pages.getSignupPage().setPassword("12345");
         pages.getSignupPage().setDateOfBirth("12", "April", "1945");
 
+
         pages.getSignupPage().selectProductsPageButton();
         pages.getProductsPage().searchProduct("Fancy Green Top");
 
