@@ -1,5 +1,6 @@
 package TestNGExercises.pages;
 
+import TestNGExercises.utilities.BrowserUtils;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.Select;
@@ -76,11 +77,14 @@ public class SignupPage extends BasePage {
         Select select = new Select(dateOfBirth_MONTHs);
         select.selectByVisibleText(month);
 
+
     }
 
     private void setDay(String day) {
         Select select = new Select(dateOfBirth_DAYs);
         select.selectByVisibleText(day);
+
+
     }
 
     public void selectProductsPageButton() {
