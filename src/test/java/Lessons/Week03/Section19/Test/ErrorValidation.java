@@ -1,8 +1,8 @@
 package Lessons.Week03.Section19.Test;
 
+import Lessons.Week03.Section19.TestComponents.BaseTest;
 import Lessons.Week03.Section18.PageObjects.CartPage;
 import Lessons.Week03.Section18.PageObjects.ProductCatalogue;
-import Lessons.Week03.Section19.TestComponents.BaseTest;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.AssertJUnit;
@@ -10,7 +10,6 @@ import org.testng.annotations.Test;
 
 import java.io.IOException;
 import java.util.List;
-import java.util.WeakHashMap;
 
 public class ErrorValidation extends BaseTest {
 

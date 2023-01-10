@@ -1,6 +1,7 @@
 package Lessons.Week03.Section19.Test;
 
 import Lessons.Week03.Section18.PageObjects.CartPage;
+import Lessons.Week03.Section18.PageObjects.CheckOutPage;
 import Lessons.Week03.Section18.PageObjects.ConfirmationPage;
 import Lessons.Week03.Section18.PageObjects.OrderPage;
 import Lessons.Week03.Section18.PageObjects.ProductCatalogue;
@@ -28,7 +29,7 @@ public class FrameWorkExercises_rahulshettycom extends BaseTest {
 
         Boolean match = cartPage.verifyProductDisplay(input.get("product"));
         Assert.assertTrue(match);
-        Lessons.Week03.Section18.PageObjects.CheckOutPage checkOutPage = cartPage.goToCheckOut();
+        CheckOutPage checkOutPage = cartPage.goToCheckOut();
         checkOutPage.selectCountry("india");
 
         ConfirmationPage confirmationPage = checkOutPage.submitOrder();
